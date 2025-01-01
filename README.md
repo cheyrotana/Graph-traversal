@@ -1,5 +1,6 @@
 + Overview
   This assignment focus on demonstrating graph traversal using Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms. The graph used for traversal is represented as an adjacency list and consists of 5 vertices with the following edges:
+
 *BFS
   - 0 -> 1
   - 0 -> 4
