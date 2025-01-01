@@ -20,7 +20,7 @@ Depth-First Search (DFS) is an algorithm for traversing or searching tree or gra
 Starting from vertex 0, the DFS traversal visits the vertices in the following order:
 0 -> 1 -> 4 -> 2 -> 3
 
-## BFS Traversal
+# BFS Traversal
 Breadth-First Search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or some arbitrary node of a graph) and explores the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
 
 ## Results
